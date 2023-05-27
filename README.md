@@ -1,6 +1,6 @@
 ### Olá, Sou o Leonardo! 👋
 
-- 🌱 Estudante de Front-End no Vai na Web
+- 🌱 Programador Front-End.
 
 ## Tecnologias:
 <div>
